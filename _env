@@ -1,0 +1,7 @@
+GOOGLE_API_KEY=
+GOOGLE_GENAI_USE_VERTEXAI=FALSE
+SENDER_EMAIL="Enter your Email"
+SENDER_PASSWORD="Enter Password"
+
+## Rename this file as " .env "
+## Note: You have to use an App password for GMAIL

@@ -23,7 +23,7 @@ The Email Agent is a Python-based email agent that leverages the Google ADK (Age
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/burkayakca/email_agent.git
     cd <repository_directory>
     ```
 
